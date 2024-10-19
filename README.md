@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-Book Website**
 
-- 🌱 I’m currently learning **Node.js(backend),Database**,Vercel**
+- 🌱 I’m currently learning **Node.js(backend),Database,Vercel,Netlify**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
