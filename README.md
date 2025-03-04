@@ -9,9 +9,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **E-Book Website**
+- 🔭 I’m currently working on **Mobile Application**
 
-- 🌱 I’m currently learning **Node.js(backend),Database,Vercel,Netlify**
+- 🌱 I’m currently learning **Flutter,Dart,Node.js(backend),Database,Vercel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
