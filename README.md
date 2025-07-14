@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajwal K S</h1>
 <h3 align="center">A passionate software developer from Bengaluru</h3>
+<h3 align="left"><bold>Hey!.Check out my amazing portfolio <a href="https://prajwalks-portfolio.vercel.app/">here</a></bold></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalks05&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalks05" /> </p>
+<h4 align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalks05&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalks05" /> </h4>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
